@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm Pranjal Singh 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pranjal+Singh+👋;Software+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggZd3pbvG/giphy.gif" width="300" alt="Coding GIF" />
+</p>
 
 <!--<h3 align="center"></h3>
 
