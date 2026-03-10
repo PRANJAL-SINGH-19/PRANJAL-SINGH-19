@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">Tech Enthusiast</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRANJAL-SINGH-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p>-->
 
 ---
 
@@ -70,20 +70,11 @@ Here are some ideas to get you started:
 
 ### 🏆 Top Skills
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANJAL-SINGH-19&layout=compact&theme=radium" alt="Top Langs" />
-</p>
+</p>-->
 
 ---
-
-### 🚀 Highlighted Projects
-
-- **AI Resume Analyzer**: A tool to analyze and score resumes using AI.
-- **Results Scraper VTU**: Scripting and data extraction tools for VTU results.
-- **Hiring Agent**: An automated pipeline to evaluate candidates using Codeforces and LeetCode performance.
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Langs" />
-</p>
 
 ---
 
